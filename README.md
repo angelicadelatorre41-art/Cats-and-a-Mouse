@@ -1,1 +1,1 @@
-# Cats-and-a-Mouse
+# Cats-and-a-Mouse This program determines which cat will reach the mouse first. It calculates the distance of Cat A and Cat B to the mouse and compares them. If one cat is closer, it wins; if both are equally close, the mouse escapes ("Mouse C").
